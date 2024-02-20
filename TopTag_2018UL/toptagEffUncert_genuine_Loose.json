@@ -1,0 +1,244 @@
+{
+  "_timestamp":   "Generated on Sat Feb 11 20:33:36 2023 by HiggsAnalysis/NtupleAnalysis/src/TopTaggerEfficiency/work/plot_EfficiencySystTop.py",
+  "_rootVersion": "6.20/02",
+   "JES_Plus" : {
+         "bins" : [
+               {
+                 "pt"              :0.0,
+                 "uncertainty"     :0.0109795406652
+                },
+               {
+                 "pt"              :100.0,
+                 "uncertainty"     :-0.00148679822795
+                },
+               {
+                 "pt"              :150.0,
+                 "uncertainty"     :0.00551263589411
+                },
+               {
+                 "pt"              :200.0,
+                 "uncertainty"     :0.00531593004761
+                },
+               {
+                 "pt"              :250.0,
+                 "uncertainty"     :0.00339860429764
+                },
+               {
+                 "pt"              :300.0,
+                 "uncertainty"     :0.00887242104757
+                },
+               {
+                 "pt"              :350.0,
+                 "uncertainty"     :0.00413299099422
+                },
+               {
+                 "pt"              :400.0,
+                 "uncertainty"     :0.010901627714
+                },
+               {
+                 "pt"              :450.0,
+                 "uncertainty"     :0.0037771417407
+                },
+               {
+                 "pt"              :525.0,
+                 "uncertainty"     :0.000472879530562
+                },
+               {
+                 "pt"              :700.0,
+                 "uncertainty"     :-0.0201031203805
+                }
+          ]
+      },
+   "JES_Minus" : {
+         "bins" : [
+               {
+                 "pt"              :0.0,
+                 "uncertainty"     :-0.00187660061666
+                },
+               {
+                 "pt"              :100.0,
+                 "uncertainty"     :-0.00339427254823
+                },
+               {
+                 "pt"              :150.0,
+                 "uncertainty"     :-0.010108618002
+                },
+               {
+                 "pt"              :200.0,
+                 "uncertainty"     :-0.00934540299233
+                },
+               {
+                 "pt"              :250.0,
+                 "uncertainty"     :-0.0111559255199
+                },
+               {
+                 "pt"              :300.0,
+                 "uncertainty"     :-0.0086378170781
+                },
+               {
+                 "pt"              :350.0,
+                 "uncertainty"     :-0.00568665374769
+                },
+               {
+                 "pt"              :400.0,
+                 "uncertainty"     :-0.00783457036258
+                },
+               {
+                 "pt"              :450.0,
+                 "uncertainty"     :-0.00572853401366
+                },
+               {
+                 "pt"              :525.0,
+                 "uncertainty"     :0.002133830112
+                },
+               {
+                 "pt"              :700.0,
+                 "uncertainty"     :0.00214970440694
+                }
+          ]
+      },
+   "JER_Plus" : {
+         "bins" : [
+               {
+                 "pt"              :0.0,
+                 "uncertainty"     :-0.209978620797
+                },
+               {
+                 "pt"              :100.0,
+                 "uncertainty"     :-0.07107039758
+                },
+               {
+                 "pt"              :150.0,
+                 "uncertainty"     :-0.0376212912454
+                },
+               {
+                 "pt"              :200.0,
+                 "uncertainty"     :-0.024989647581
+                },
+               {
+                 "pt"              :250.0,
+                 "uncertainty"     :-0.0216107146036
+                },
+               {
+                 "pt"              :300.0,
+                 "uncertainty"     :-0.0191609417256
+                },
+               {
+                 "pt"              :350.0,
+                 "uncertainty"     :-0.013470134315
+                },
+               {
+                 "pt"              :400.0,
+                 "uncertainty"     :-0.0129943805009
+                },
+               {
+                 "pt"              :450.0,
+                 "uncertainty"     :-0.010713745769
+                },
+               {
+                 "pt"              :525.0,
+                 "uncertainty"     :-0.00210207036286
+                },
+               {
+                 "pt"              :700.0,
+                 "uncertainty"     :0.000824265638631
+                }
+          ]
+      },
+   "JER_Minus" : {
+         "bins" : [
+               {
+                 "pt"              :0.0,
+                 "uncertainty"     :-0.330922438621
+                },
+               {
+                 "pt"              :100.0,
+                 "uncertainty"     :-0.117549994497
+                },
+               {
+                 "pt"              :150.0,
+                 "uncertainty"     :-0.0623601593141
+                },
+               {
+                 "pt"              :200.0,
+                 "uncertainty"     :-0.0379010334
+                },
+               {
+                 "pt"              :250.0,
+                 "uncertainty"     :-0.0295871464386
+                },
+               {
+                 "pt"              :300.0,
+                 "uncertainty"     :-0.0317428599153
+                },
+               {
+                 "pt"              :350.0,
+                 "uncertainty"     :-0.0218767123041
+                },
+               {
+                 "pt"              :400.0,
+                 "uncertainty"     :-0.0193718956112
+                },
+               {
+                 "pt"              :450.0,
+                 "uncertainty"     :-0.0151494725811
+                },
+               {
+                 "pt"              :525.0,
+                 "uncertainty"     :-0.0059966004072
+                },
+               {
+                 "pt"              :700.0,
+                 "uncertainty"     :0.00903557642246
+                }
+          ]
+      },
+   "Inclusive_Top" : {
+         "bins" : [
+               {
+                 "pt"              :0.0,
+                 "uncertainty"     :-0.159482363366
+                },
+               {
+                 "pt"              :100.0,
+                 "uncertainty"     :-0.0892003529441
+                },
+               {
+                 "pt"              :150.0,
+                 "uncertainty"     :-0.0369742298406
+                },
+               {
+                 "pt"              :200.0,
+                 "uncertainty"     :-0.01956167685
+                },
+               {
+                 "pt"              :250.0,
+                 "uncertainty"     :-0.00450761674343
+                },
+               {
+                 "pt"              :300.0,
+                 "uncertainty"     :-0.0073003231438
+                },
+               {
+                 "pt"              :350.0,
+                 "uncertainty"     :-0.0095259521844
+                },
+               {
+                 "pt"              :400.0,
+                 "uncertainty"     :0.00369776273382
+                },
+               {
+                 "pt"              :450.0,
+                 "uncertainty"     :-0.00109282479195
+                },
+               {
+                 "pt"              :525.0,
+                 "uncertainty"     :0.00077294382575
+                },
+               {
+                 "pt"              :700.0,
+                 "uncertainty"     :-0.307838179297
+                }
+          ]
+      }
+}
